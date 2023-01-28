@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Keeper-Notes-taking-app/static/js/main.684e802a.chunk.js",
+    "main.js.map": "/Keeper-Notes-taking-app/static/js/main.684e802a.chunk.js.map",
+    "runtime-main.js": "/Keeper-Notes-taking-app/static/js/runtime-main.ae37353b.js",
+    "runtime-main.js.map": "/Keeper-Notes-taking-app/static/js/runtime-main.ae37353b.js.map",
+    "static/js/2.dc8daa36.chunk.js": "/Keeper-Notes-taking-app/static/js/2.dc8daa36.chunk.js",
+    "static/js/2.dc8daa36.chunk.js.map": "/Keeper-Notes-taking-app/static/js/2.dc8daa36.chunk.js.map",
+    "index.html": "/Keeper-Notes-taking-app/index.html",
+    "precache-manifest.1386bcf22be02a69dc98ee5e2505f166.js": "/Keeper-Notes-taking-app/precache-manifest.1386bcf22be02a69dc98ee5e2505f166.js",
+    "service-worker.js": "/Keeper-Notes-taking-app/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae37353b.js",
+    "static/js/2.dc8daa36.chunk.js",
+    "static/js/main.684e802a.chunk.js"
+  ]
+}
