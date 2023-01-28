@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6521a6f876c279a9df0a648556a65768",
+    "revision": "292389d542b2ed524e18bc486e3af81e",
     "url": "/Keeper-Notes-taking-app/index.html"
   },
   {
