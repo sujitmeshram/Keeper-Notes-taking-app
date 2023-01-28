@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Keeper-Notes-taking-app/static/js/main.684e802a.chunk.js",
-    "main.js.map": "/Keeper-Notes-taking-app/static/js/main.684e802a.chunk.js.map",
+    "main.js": "/Keeper-Notes-taking-app/static/js/main.c685bc7c.chunk.js",
+    "main.js.map": "/Keeper-Notes-taking-app/static/js/main.c685bc7c.chunk.js.map",
     "runtime-main.js": "/Keeper-Notes-taking-app/static/js/runtime-main.ae37353b.js",
     "runtime-main.js.map": "/Keeper-Notes-taking-app/static/js/runtime-main.ae37353b.js.map",
     "static/js/2.dc8daa36.chunk.js": "/Keeper-Notes-taking-app/static/js/2.dc8daa36.chunk.js",
     "static/js/2.dc8daa36.chunk.js.map": "/Keeper-Notes-taking-app/static/js/2.dc8daa36.chunk.js.map",
     "index.html": "/Keeper-Notes-taking-app/index.html",
-    "precache-manifest.307362ad339f04db0e8a693d57fec6a3.js": "/Keeper-Notes-taking-app/precache-manifest.307362ad339f04db0e8a693d57fec6a3.js",
+    "precache-manifest.2247b01edc1815812fb08d1bc020d49d.js": "/Keeper-Notes-taking-app/precache-manifest.2247b01edc1815812fb08d1bc020d49d.js",
     "service-worker.js": "/Keeper-Notes-taking-app/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.ae37353b.js",
     "static/js/2.dc8daa36.chunk.js",
-    "static/js/main.684e802a.chunk.js"
+    "static/js/main.c685bc7c.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "292389d542b2ed524e18bc486e3af81e",
+    "revision": "587cab9a37b2d72b26972a3cd6f20ebb",
     "url": "/Keeper-Notes-taking-app/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Keeper-Notes-taking-app/static/js/2.dc8daa36.chunk.js"
   },
   {
-    "revision": "b25b6219ad2b4b8f87cf",
-    "url": "/Keeper-Notes-taking-app/static/js/main.684e802a.chunk.js"
+    "revision": "2e0324aed75f2250ba38",
+    "url": "/Keeper-Notes-taking-app/static/js/main.c685bc7c.chunk.js"
   },
   {
     "revision": "4f75be4680caaed365e9",
